@@ -30,6 +30,7 @@
       <service
         android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService"
         android:permission="android.permission.BIND_JOB_SERVICE"/>
+      <service android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationHelper"/>
       <service android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationRegistrationService"/>
       <activity
         android:name=".MainActivity"

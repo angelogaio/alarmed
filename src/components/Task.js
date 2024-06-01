@@ -58,6 +58,7 @@ export default props => {
           </TouchableWithoutFeedback>
           <View>
             <Text style={[styles.desc, doneOrNotStyle]}>{props.desc}</Text>
+            {props.local ? (<Text style={[styles.desc, doneOrNotStyle]}>{props.local}</Text>) : null}
             <Text style={styles.date}>{formattedDate}</Text>
           </View>
         </View>

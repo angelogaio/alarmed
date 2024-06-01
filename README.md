@@ -1,3 +1,12 @@
+# Bem vindo ao Projeto AlarMed
+
+Este projeto foi desenvolvido com intuito de atender os requerimento da disciplina de Atividade Extencionista III - Tecnologia aplicada à Inclusão Digital do curso de BACHARELADO EM ENGENHARIA DE SOFTWARE - DISTÂNCIA (6270) do [Centro Universitário Internacional Uninter](https://www.uninter.com/)
+
+## Identificação: ANGELO GAIO UTRABO - RU:3782435 
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started

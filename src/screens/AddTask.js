@@ -45,7 +45,7 @@ export default class AddTask extends Component {
         date: new Date(Date.now() + delay),
         allowWhileIdle: true,
       });
-      alert('Seu ' + desc +  ' foi agendado!');
+      alert('Seu ' + desc +  ' foi para a Lista!');
     } else {
       alert('Por favor, selecione uma data e hora futuras.');
     }
@@ -55,6 +55,7 @@ export default class AddTask extends Component {
     const newTask = {
       desc: this.state.desc,
       date: this.state.date,
+      local: this.state.local
     };
 
     this.scheduleAlarm()

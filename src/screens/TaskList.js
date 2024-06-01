@@ -100,6 +100,7 @@ export default class TaskList extends Component {
       desc: newTask.desc,
       estimateAt: newTask.date,
       doneAt: null,
+      local: newTask.local,
     });
     
     this.setState({tasks, showAddTask: false}, this.filterTasks);
@@ -131,7 +132,7 @@ export default class TaskList extends Component {
         </ImageBackground>
         <View style={styles.taskList}>
           <View style={styles.titleBar}>
-            <Text style={styles.title}> Alertas</Text>
+            <Text style={styles.title}> Lista de Vacinas/Remédios</Text>
 
             <TouchableOpacity
               style={styles.addButton}
@@ -180,7 +181,7 @@ const styles = StyleSheet.create({
 
   },
   title: {
-    fontSize: 30,
+    fontSize: 25,
     margin: 5,
     color: commonStyles.colors.secundary,
     marginLeft: 20,
