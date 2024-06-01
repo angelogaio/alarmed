@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Lato.ttf",
+      "sha1": "a405c8288a8a90881407f93b6ee02b29e26a8735"
+    },
+    {
+      "path": "src/assets/imgs/login.jpg",
+      "sha1": "eccd954a29843c976bdac1e3ca4eadfaf24b96d2"
+    },
+    {
+      "path": "src/assets/imgs/month.jpg",
+      "sha1": "c65acf4b6f56190a6127c31e83b7f1b3e6beab8c"
+    },
+    {
+      "path": "src/assets/imgs/today.jpg",
+      "sha1": "b43eea5d31a29c8ff97fdbff3dd6f9680ccba3ad"
+    },
+    {
+      "path": "src/assets/imgs/tomorrow.jpg",
+      "sha1": "7faa81327bb445973c1b4a9063da65149629bbca"
+    },
+    {
+      "path": "src/assets/imgs/week.jpg",
+      "sha1": "cc8acbc8c4937757d4e463ef23c3c9fef96a6bc0"
+    }
+  ]
+}
