@@ -11,9 +11,7 @@ BACHARELADO EM ENGENHARIA DE SOFTWARE - DISTÂNCIA (6270) do [Centro Universitá
    Conforme determinado na atividade Extensionista I o setor de aplicação inicial do
 aplicativo será na comunidade de Rio Bonito em Braço do Norte localizado no estado de
 Santa Catarina, local que foi efetuado uma pesquisa para determinar a necessidade do
-aplicativo, sendo disponibilizado no Google Play para disponibilidade aberta, todos iram
-poder efetuar o download da aplicação
-
+aplicativo.
 
 ## Objetivos de Desenvolvimento Sustentável (ODS)
 - Saúde e bem-estar
