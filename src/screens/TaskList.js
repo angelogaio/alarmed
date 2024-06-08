@@ -48,7 +48,6 @@ export default class TaskList extends Component {
     ...initialState,
   };
 
-
   componentDidMount = async () => {
     this.filterTasks();
     const stateString = await AsyncStorage.getItem('tasksState');
@@ -94,7 +93,6 @@ export default class TaskList extends Component {
 
     const tasks = [...this.state.tasks];
 
-    
     tasks.push({
       id: Math.random(),
       desc: newTask.desc,

@@ -167,8 +167,6 @@ export default class AddTask extends Component {
               value={this.state.local}
             />
           </View>
-
-
           <View style={styles.buttons}>
             <TouchableOpacity onPress={this.props.onCancel}>
               <Text style={styles.button}>Cancelar</Text>
